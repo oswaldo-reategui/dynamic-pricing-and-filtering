@@ -23,6 +23,9 @@ This project encompasses a series of innovative customizations for WooCommerce o
 
 
 - `insert-page-content-shortcode.php`: Provides a reusable shortcode `[insert_page]` to insert content from other pages, streamlining content management.
+![ezgif com-video-to-gif](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/dfe4ee46-faa5-415c-a9cc-a6a405bffd0b)
+
+
 
 - `interactive-people-selector-with-transport-fees.php`: A frontend script that introduces an interactive selector for the number of people, integrating it with transport fee calculations.
 
