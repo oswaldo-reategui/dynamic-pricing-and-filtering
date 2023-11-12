@@ -49,7 +49,3 @@ Contributions to enhance or extend the functionalities are welcome. Please feel 
 ## License
 
 This project is licensed under MIT license.
-
----
-
-© [Your Name] - Innovating WooCommerce experiences.
