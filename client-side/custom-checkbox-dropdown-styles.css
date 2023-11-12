@@ -1,0 +1,64 @@
+/* Custom styles for WooCommerce product options */
+
+/* Style for the custom checkbox used in the WooCommerce product admin */
+#add_transport_fee {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* Style for the label associated with the custom checkbox */
+label[for="add_transport_fee"] {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for the container wrapping the custom checkbox and its label */
+#transport-fee-container {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the dropdown used to select the number of people */
+#number_of_people {
+    width: 50%;
+    height: 35px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+/* Style for the label associated with the number of people dropdown */
+label[for="number_of_people"] {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Style for the container wrapping the number of people dropdown */
+#people-selector {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the "per person" text appended to the price display */
+.per-person {
+    font-size: 17px;
+    font-style: italic;
+}
+
+/* Responsive style for the number of people dropdown to fit various widths */
+#number_of_people {
+    min-width: 50px;
+    max-width: 100%;
+    width: auto;
+}
+
+/* Style to hide the Add to Cart button from WooCommerce product grids */
+.add_to_cart_button {
+    display: none !important;
+}

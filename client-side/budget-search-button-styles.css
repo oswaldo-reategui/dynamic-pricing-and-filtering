@@ -1,0 +1,74 @@
+/* Interactive Styles for Budget Section */
+
+/* Global style to add a smooth transition effect for all elements */
+* {
+    transition: all 0.3s ease;
+  }
+  
+  /* Styles for the container of the budget input and search button */
+  #budget-section {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Styles for the budget input field */
+  #budget_input {
+    flex: 1;
+    padding: 10px;
+    font-size: 19px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
+    appearance: textfield;
+    width: calc(100% - 110px);
+    outline: none; /* Remove default focus outline */
+  }
+  
+  /* Focus state style for the budget input field */
+  #budget_input:focus {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7); /* Add a glow effect when focused */
+  }
+  
+  /* Hide the native spinner controls from input type number for Webkit browsers */
+  #budget_input::-webkit-inner-spin-button,
+  #budget_input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  /* Styles for the search budget button */
+  #search_budget_button {
+    width: 100px;
+    background-color: #f39c12;
+    color: white;
+    font-weight: bold;
+    padding: 12px;
+    font-size: 19px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover state style for the search budget button */
+  #search_budget_button:hover {
+    background-color: #e67e22; /* Darken the background on hover */
+    transform: scale(1.05); /* Slightly enlarge the button */
+  }
+  
+  /* Active state style for the search budget button */
+  #search_budget_button:active {
+    background-color: #d35400; /* Darken the background further on active state */
+    transform: scale(0.95); /* Slightly shrink the button */
+  }
+  
+  /* Media query for responsive adjustments on mobile screens */
+  @media only screen and (max-width: 600px) {
+    #budget_input, #search_budget_button {
+      width: 100%; /* Full width for smaller screens */
+      margin-bottom: 10px;
+    }
+  }
+  
