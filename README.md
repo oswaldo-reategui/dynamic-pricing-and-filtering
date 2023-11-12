@@ -15,6 +15,7 @@ This project encompasses a series of innovative customizations for WooCommerce o
 ### PHP Scripts
 
 - `admin-product-transport-fee-fixed-tool.php`: Adds custom fields in the WooCommerce product admin for transport fees and fixed price options, allowing for more detailed product configuration.
+  ![gif_01](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/31a04fe3-2f76-421e-b5ee-98c27bc7e7be)
 
 - `checkout-transport-fee-calculation.php`: Implements a calculation tool in the checkout process that dynamically adjusts prices based on transport fees and user selections.
 
