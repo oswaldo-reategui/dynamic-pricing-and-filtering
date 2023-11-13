@@ -25,11 +25,17 @@ This project encompasses a series of innovative customizations for WooCommerce o
 - `insert-page-content-shortcode.php`: Provides a reusable shortcode `[insert_page]` to insert content from other pages, streamlining content management.
 ![gif_03](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/eff7b7e1-b217-4252-a467-a5e535c86d02)
 
+
 - `interactive-people-selector-with-transport-fees.php`: A frontend script that introduces an interactive selector for the number of people, integrating it with transport fee calculations.
+![gif_04](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/1f6f2277-ae35-4a58-8e74-2f3d5c3be156)
+
 
 - `budget-conscious-product-filter.php`: Offers a frontend filtering system that allows customers to find products within a specific budget range.
+![gif_05](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/64efcdd7-71c6-4860-9f74-4e77cef4e898)
+
 
 - `dynamic-cart-adjustment-for-transport-fees.php`: Adjusts the WooCommerce cart dynamically, accounting for additional transport fees based on product choices and user inputs.
+
 
 - `per-person-price-display.php`: Modifies the product price display on WooCommerce pages to include a "per person" suffix when applicable.
 
