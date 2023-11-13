@@ -39,6 +39,7 @@ This project encompasses a series of innovative customizations for WooCommerce o
 
 
 - `per-person-price-display.php`: Modifies the product price display on WooCommerce pages to include a "per person" suffix when applicable.
+
 ![gif_06](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/2d6ac59d-b565-406f-b1c2-71863e824b71)
 
 
