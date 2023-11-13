@@ -31,7 +31,7 @@ This project encompasses a series of innovative customizations for WooCommerce o
 
 
 - `budget-conscious-product-filter.php`: Offers a frontend filtering system that allows customers to find products within a specific budget range.
-![gif_05](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/64efcdd7-71c6-4860-9f74-4e77cef4e898)
+- ![gif_05](https://github.com/oswaldo-reategui/dynamic-pricing-and-filtering/assets/59293697/64efcdd7-71c6-4860-9f74-4e77cef4e898)
 
 
 - `dynamic-cart-adjustment-for-transport-fees.php`: Adjusts the WooCommerce cart dynamically, accounting for additional transport fees based on product choices and user inputs.
